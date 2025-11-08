@@ -8,19 +8,16 @@ ________________________________________
 ________________________________________
 🔧 Tech Stack
 Languages
-•	Python • C/C++ • Java • JavaScript
+•	Python • C/C++ • Java 
 AI / Machine Learning
 •	NumPy • Pandas • Scikit-Learn
 •	Model training, optimization & applied ML
-Robotics / Embedded
-•	ROS (Beginner) • ESP8266/ESP32 • Arduino
-•	Sensors, control systems & automation
 Tools
 •	Git • Linux • Docker 
 ________________________________________
 📌 Projects
 •	University projects: Linux • OS • Algorithms • AI
-•	Robotics & Image Processing
+•	Image Processing
 •	Machine Learning mini-projects
 •	Competitive programming practice
 📈 More projects coming soon — documenting everything as I grow.
