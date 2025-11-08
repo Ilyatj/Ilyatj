@@ -7,15 +7,15 @@ ________________________________________
 •	🎯 Goal: Become a top-tier engineer in Robotics & Artificial Intelligence
 ________________________________________
 🔧 Tech Stack
-Languages
+Languages:
 •	Python • C/C++ • Java 
-AI / Machine Learning
+AI / Machine Learning:
 •	NumPy • Pandas • Scikit-Learn
 •	Model training, optimization & applied ML
-Tools
+Tools:
 •	Git • Linux • Docker 
 ________________________________________
-📌 Projects
+📌 Projects:
 •	University projects: Linux • OS • Algorithms • AI
 •	Image Processing
 •	Machine Learning mini-projects
